@@ -3,4 +3,4 @@ project(GitRebaseTest)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(GitRebaseTest main.cpp)
+add_executable(GitRebaseTest main.cpp datetime.h)
